@@ -1,11 +1,11 @@
 ---
 layout: ../../layouts/project.astro
-title: EFO
+title: 
 client: Self
 publishDate: 2020-03-02 00:00:00
-img: https://images.unsplash.com/photo-1547234935-80c7145ec969?fit=crop&w=1400&h=700&q=75
+img: https://cdn.cloudflare.steamstatic.com/steam/apps/1718070/header.jpg?t=1670243532
 description: |
-  3rd game project at Digipen
+  Sophomore project at Digipen
 tags:
   - Student Project
   - Game Engine Architecture

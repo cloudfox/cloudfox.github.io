@@ -3,8 +3,6 @@ import MainHead from '../components/MainHead.astro';
 import Footer from '../components/Footer.astro';
 import Nav from '../components/Nav.astro';
 
-import { Picture } from '@astrojs/image/components';
-
 ---
 
 <html lang="en">
@@ -43,11 +41,6 @@ import { Picture } from '@astrojs/image/components';
 				<p>
 					words words and more words
 				</p>
-
-
-<!--Images in /public work like remote images-->
-<Picture src="/assets/pLogo.jpg" widths={[200, 400, 800]} aspectRatio="4:3" sizes="(max-width: 800px) 100vw, 800px" alt="The logo" />
-
 
 
 				<p>
