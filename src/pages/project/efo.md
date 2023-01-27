@@ -14,3 +14,11 @@ tags:
 ---
 
 spaaaaace
+
+What is the game?
+
+What did I work on?
+
+Other thoughts
+
+Teammates:
