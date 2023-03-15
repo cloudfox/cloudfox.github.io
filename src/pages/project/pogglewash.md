@@ -38,27 +38,16 @@ We also started running into a lot of critical bugs that were often difficult to
 
 Overall I'm pretty happy with what we made. I do still wish we could have done more with it but it really would have been outside the scope of the class.
 
-
-
-
-
 <h4>
 What did I work on?
 </h4>
 My main role was the lead AI programmer. Aside from that I worked a bit on performance/optimization, and maintaining our bug list(not having access to more profesional software like jira or remedy made this a bit trickier).
-
 
 creature pogglewonk
 
 behaviors
 
 behvaiors that didn't make it into the final game
-
-
-
-
-
-
 
 <h4>
 Teammates:
@@ -68,13 +57,21 @@ Teammates:
 Artists: 
 </h5>
 
-<par> Anna Stockton
+<par>
+
+Anna Stockton
 
 Megan Meadows
 
 Andrew
 
-Garrot
+Garrett Lusignan
+
+Nikole McElhose
+
+Rowan Thompson
+
+Ava Rooney
 
 </par>
 
@@ -82,26 +79,32 @@ Designers:
 
 </h5>
 
-Oliver
+Oliver Chung
+
+Lynn Kubo
+
+McKinley Roshak
+
+Luke Cambell
 
 <h5>
 Programmers:
 </h5>
 
-Frankie
+Frankie Camarillo
 
-Jackson
+Jackson Fischer
 
-Sam
+Sam Marsden
 
 Chris
 
-David
+David Wong Cascante
 
-David
+David Cruse
 
 <h5>
 Audio Designers:
 </h5>
 
-Eric
+Eric Herbst
