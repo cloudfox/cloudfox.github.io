@@ -46,8 +46,11 @@ My main role was the lead AI programmer. Aside from that I worked a bit on perfo
 creature pogglewonk
 
 behaviors
+<img src="/assets/behaviorTree.PNG" alt="A starry night sky.">
 
 behvaiors that didn't make it into the final game
+
+*Under Construction\*
 
 <h4>
 Teammates:
@@ -63,7 +66,7 @@ Anna Stockton
 
 Megan Meadows
 
-Andrew
+Andrew Terell
 
 Garrett Lusignan
 
@@ -73,10 +76,14 @@ Rowan Thompson
 
 Ava Rooney
 
+Harriet Clarke
+
+Elena Rasskazova
+
 </par>
 
+<h5>
 Designers:
-
 </h5>
 
 Oliver Chung
@@ -108,3 +115,7 @@ Audio Designers:
 </h5>
 
 Eric Herbst
+
+Antonio
+
+Noah
